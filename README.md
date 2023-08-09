@@ -1,7 +1,9 @@
-teste git add
+teste git add (changed -> staged mode)
 
-teste git commit
+teste git commit (read to push)
 
-teste git push
+teste git push (pushed and saved)
 
-teste git pull
+teste git pull (copy)
+
+teste git fetch (inspect pull before push)
