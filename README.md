@@ -9,3 +9,5 @@ teste git pull (copy)
 teste git fetch (inspect pull before push)
 
 teste git checkou (switches the branchs)
+
+teste git merge (mergin 2 branches or more)
